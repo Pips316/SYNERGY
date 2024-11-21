@@ -1,0 +1,31 @@
+{
+  "name": "synergy-game",
+  "version": "1.0.0",
+  "description": "Synergy - A magnetic snake game built with React, TypeScript, and Vite.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "tailwindcss": "^3.3.3",
+    "typescript": "^5.1.6",
+    "vite": "^4.4.0"
+  },
+  "keywords": [
+    "vite",
+    "react",
+    "game",
+    "magnetic",
+    "snake",
+    "synergy"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
